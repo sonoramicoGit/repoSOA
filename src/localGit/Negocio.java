@@ -8,6 +8,9 @@ public class Negocio {
 	public void consultaLocal() {
 		System.out.println("Negocio.consultaLocal() Comentario local 1");
 	}
+	public void consultaLocalRama() {
+		System.out.println("Negocio.consultaLocalRama() Comentario local 1");
+	}
 	
 
 }
