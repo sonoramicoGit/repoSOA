@@ -17,6 +17,10 @@ public class Negocio {
 	public void consultaLocalClone2() {
 		System.out.println("Negocio.consultaLocalClone2() Comentario local 1");
 	}
+	public void consultaLocalGit() {
+		System.out.println("Negocio.consultaLocalGit() Comentario local 1");
+
+	}
 	
 
 }
