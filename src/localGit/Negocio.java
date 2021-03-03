@@ -25,6 +25,10 @@ public class Negocio {
 		System.out.println("Negocio.consultaLocalCloneRama() Comentario local 1");
 
 	}
+	public void consultaLocalCloneRama2() {
+		System.out.println("Negocio.consultaLocalCloneRama2() Comentario local 1");
+
+	}
 	
 
 }
