@@ -14,6 +14,9 @@ public class Negocio {
 	public void consultaLocalClone() {
 		System.out.println("Negocio.consultaLocalClone() Comentario local 1");
 	}
+	public void consultaLocalGit() {
+		System.out.println("Negocio.consultaLocalGit() Comentario local 1");
+	}
 	
 
 }
