@@ -21,6 +21,10 @@ public class Negocio {
 		System.out.println("Negocio.consultaLocalGit() Comentario local 1");
 
 	}
+	public void consultaLocalCloneRama() {
+		System.out.println("Negocio.consultaLocalCloneRama() Comentario local 1");
+
+	}
 	
 
 }
