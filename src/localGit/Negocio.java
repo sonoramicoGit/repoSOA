@@ -26,7 +26,7 @@ public class Negocio {
 
 	}
 	public void consultaLocalCloneRama2() {
-		System.out.println("Negocio.consultaLocalCloneRama2() Comentario local 1");
+		System.out.println("Negocio.consultaLocalCloneRama2() Comentario local 1rama rey2");
 
 	}
 	
